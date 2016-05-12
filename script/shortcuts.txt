@@ -1,4 +1,4 @@
 http://techreport.com/
 https://www.youtube.com/
-#https://mail.google.com/mail/u/0/#inbox
+https://mail.google.com/mail/u/0/#inbox
 C:\\Games\\Steam\\SteamApps\\common\\Skyrim\\SkyrimLauncher.exe
